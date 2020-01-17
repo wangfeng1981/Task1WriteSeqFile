@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Task1WriteSeqFile:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b78e556-b991-4ffa-ad13-acc2870aaff5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WWFpBKQG1HZx3D3xEc4nUKSso1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="/usr/local/hadoop/share/hadoop/common/lib/slf4j-log4j12-1.7.10.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.291954" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Task1WriteSeqFile" />
+      <option name="PROGRAM_PARAMETERS" value="/test-seq-1.seq" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b78e556-b991-4ffa-ad13-acc2870aaff5" name="Default Changelist" comment="" />
+      <created>1579257623604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579257623604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579261492088">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="268" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1535.876@65.24.1535.876" timestamp="1579261492088" />
+    <state x="755" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579261940355">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="755" y="265" key="#com.intellij.ide.util.TreeClassChooserDialog/65.24.1535.876@65.24.1535.876" timestamp="1579261940355" />
+    <state x="677" y="174" key="FileChooserDialogImpl" timestamp="1579261325245">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="677" y="174" key="FileChooserDialogImpl/65.24.1535.876@65.24.1535.876" timestamp="1579261325245" />
+    <state width="1489" height="237" key="GridCell.Tab.0.bottom" timestamp="1579261600747">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1489" height="237" key="GridCell.Tab.0.bottom/65.24.1535.876@65.24.1535.876" timestamp="1579261600747" />
+    <state width="1489" height="237" key="GridCell.Tab.0.center" timestamp="1579261600745">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1489" height="237" key="GridCell.Tab.0.center/65.24.1535.876@65.24.1535.876" timestamp="1579261600745" />
+    <state width="1489" height="237" key="GridCell.Tab.0.left" timestamp="1579261600743">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1489" height="237" key="GridCell.Tab.0.left/65.24.1535.876@65.24.1535.876" timestamp="1579261600743" />
+    <state width="1489" height="237" key="GridCell.Tab.0.right" timestamp="1579261600746">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state width="1489" height="237" key="GridCell.Tab.0.right/65.24.1535.876@65.24.1535.876" timestamp="1579261600746" />
+    <state x="505" y="56" width="1024" height="843" key="SettingsEditor" timestamp="1579261945701">
+      <screen x="65" y="24" width="1535" height="876" />
+    </state>
+    <state x="505" y="56" width="1024" height="843" key="SettingsEditor/65.24.1535.876@65.24.1535.876" timestamp="1579261945701" />
+  </component>
+</project>
